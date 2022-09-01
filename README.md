@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
+# Hi there, I'm Unuefe Ejovwoke - aka [Thelazyprogrammer][website] 👋 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
