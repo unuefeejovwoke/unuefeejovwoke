@@ -44,7 +44,7 @@ I'm a software engineer and I'm good and terrific at creating cool things, I get
 <img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="django" width="26px"  src="https://img.icons8.com/material-outlined/24/000000/api-settings.png" style="padding-right:10px;" />
           
                 
 
