@@ -1,7 +1,7 @@
 # Hi there, I'm Unuefe Ejovwoke - aka Thelazyprogrammer 👋 
 ## I'm an Entrepreneur, Businessman who is interested in building tech startups and scaling them!!
 
-I'm a software engineer and I'm good and terrific at creating cool things, I get high with python codes and stay elevated with JavaScript codes. A solution driven software engineer and problem solver, I'm a founder, tech lead of 2 top startups in my city, I love creating ideas, providing solutions to problems, engaging the right people to build with. I believe in summing smart works and hard works because if being successful is just by working hard then Brick layers would be the richest people alive. With smart work, hard work and consistency one can build the FUTURE..
+I'm a software engineer and I'm good and terrific at creating cool things, I get high with python codes and staying levitated with JavaScript codes. A solution driven software engineer and problem solver, I'm a founder, tech lead of 2 top startups in my city, I love creating ideas, providing solutions to problems, engaging the right people to build with. I believe in summing smart works and hard works because if being successful is just by working hard then Brick layers would be the richest people alive. With smart work, hard work and consistency one can build the FUTURE..
 
 ## I'm a Student, Developer, and Co-founder!!
 
